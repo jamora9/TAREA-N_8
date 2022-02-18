@@ -55,8 +55,6 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/154615701-798744c3-8d7b-496a-8851-c87b4795e2fb.png)
 
-![image](https://user-images.githubusercontent.com/93900233/154615633-9b3d9bcb-75f9-4079-9fa4-4ca981de404f.png)
-
 ![image](https://user-images.githubusercontent.com/93900233/154615777-db55c46f-4bc4-4458-9b11-3c171f667eeb.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/154615814-35bb9b47-5baf-49db-b6f1-27ed378391e1.png)
