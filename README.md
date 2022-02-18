@@ -10,6 +10,11 @@
 
 # Capitulo 15
 
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/Blank%20diagram.jpeg)
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/2.jpeg)
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/3.jpeg)
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/4.jpeg)
+
 # Capitulo 16
 
 # EJERCICIOS
