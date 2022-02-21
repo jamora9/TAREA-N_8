@@ -16,7 +16,8 @@
 ![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/4.jpeg)
 
 # Capitulo 16
-
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/6.jpeg)
+![](https://github.com/jamora9/TAREA-N_8/blob/main/IMA/7.jpeg)
 # EJERCICIOS
 
 # Capitulo 15
