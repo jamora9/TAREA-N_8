@@ -6,6 +6,9 @@
 
 # Objetivos Específicos
 
+- Analizar los diferentes tipos de generadores: generadores de tensión y corriente, que a su vez se pueden descomponer en ideales y reales.
+- Comprender la diferencia de fase que existe entre potencial e intensidad de la corriente en un circuito de CA.
+- Determinar y entender la resonancia del circuito RLC y su aplicación en filtros. Calcule la relación entre la diferencia de potencial y la corriente en el dipolo de la serie RLC.
 # MARCO TEORICO
 
 # Capitulo 15
