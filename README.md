@@ -4,11 +4,13 @@
 
 # Objetivo General
 
+- Explicar conceptos relacionados al tema de circuitos RC y RL, por medio de un informe académico que incluya material de estudio en mapas mentales y la resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+
 # Objetivos Específicos
 
-- Analizar los diferentes tipos de generadores: generadores de tensión y corriente, que a su vez se pueden descomponer en ideales y reales.
-- Comprender la diferencia de fase que existe entre potencial e intensidad de la corriente en un circuito de CA.
-- Determinar y entender la resonancia del circuito RLC y su aplicación en filtros. Calcule la relación entre la diferencia de potencial y la corriente en el dipolo de la serie RLC.
+- Analizar los diferentes tipos de generadores los cuales pueden ser generadores de tensión y corriente,los cuales se pueden descomponer en ideales y reales.
+- Comprender la diferencia de fase que existe entre potencial e intensidad de la corriente en un circuito de CA para determinar la resonancia del circuito RLC y su aplicación en filtros. 
+- Resolver ejercicios practico para la aplicacion de los temas propuestos.
 # MARCO TEORICO
 
 # Capitulo 15
