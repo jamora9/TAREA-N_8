@@ -240,6 +240,10 @@
 
 ![image](https://user-images.githubusercontent.com/93899422/155216474-07feb8d8-d271-4ff1-a0fc-f5a17b17cf5f.png)
 
+# EJERCICIO 65
+
+![image](https://user-images.githubusercontent.com/93899422/155218563-18448621-31e4-405c-b422-cdd6e5e62ec0.png)
+
 # EJERCICIO 67
 
 ![image](https://user-images.githubusercontent.com/93899422/155216526-582bc24e-11ed-4f2e-b092-55e3daa9cc30.png)
