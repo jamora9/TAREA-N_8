@@ -175,8 +175,127 @@
 
 ![image](https://user-images.githubusercontent.com/93900233/154618526-ab7c0e57-4fda-4d84-b25e-c1405aebd062.png)
 
+# EJERCICIO 35
+
+![image](https://user-images.githubusercontent.com/93899422/155214976-9e4d9ab8-9363-4074-9424-ebbc5865a03b.png)
+
+# EJERCICIO 37
+
+![image](https://user-images.githubusercontent.com/93899422/155215033-7fc770c9-c3de-4c0e-8465-8ad52d4ca959.png)
+
+# EJERCICIO 39
+
+![image](https://user-images.githubusercontent.com/93899422/155215079-f936d4a4-1780-46fb-baea-00e2e5214271.png)
+
+# EJERCICIO 41
+
+![image](https://user-images.githubusercontent.com/93899422/155215130-e9ef06d6-4166-4a78-ad50-0f3f96ac70fe.png)
+
+# EJERCICIO 43
+
+![image](https://user-images.githubusercontent.com/93899422/155215314-83c8e91d-e055-4f0c-8eaa-8c7385b679a2.png)
+
+# EJERCICIO 45
+
+![image](https://user-images.githubusercontent.com/93899422/155215436-02a9b428-19c0-4269-a71f-735e11675514.png)
+![image](https://user-images.githubusercontent.com/93899422/155215481-a015c302-f045-40c0-aa01-eabf07695ebf.png)
+
+# EJERCICIO 47
+
+![image](https://user-images.githubusercontent.com/93899422/155215574-338aa366-31dd-4656-bd60-3347360720d3.png)
+
+# EJERCICIO 49
+
+![image](https://user-images.githubusercontent.com/93899422/155215648-5dd2d887-41b5-4280-8574-9ddee781ed29.png)
+![image](https://user-images.githubusercontent.com/93899422/155215702-e99b59a8-0cf0-4b3f-bef2-e79bcb31c950.png)
+![image](https://user-images.githubusercontent.com/93899422/155215743-f72f8c4a-66a1-40c8-b92c-c117fb72abef.png)
+
+# EJERCICIO 51
+
+![image](https://user-images.githubusercontent.com/93899422/155215855-d333d2b2-2096-4244-a774-6f05edca6206.png)
+![image](https://user-images.githubusercontent.com/93899422/155215896-0924aebf-cbd1-4dfa-9dee-33891ffac616.png)
+
+# EJERCICIO 53
+
+![image](https://user-images.githubusercontent.com/93899422/155215987-19fe1c80-a56e-443d-a889-2baf5bc25187.png)
+
+# EJERCICIO 55
+
+![image](https://user-images.githubusercontent.com/93899422/155216232-c8b38b30-0c34-410d-9aa8-c41354c7c13f.png)
+![image](https://user-images.githubusercontent.com/93899422/155216286-8f12e1da-f70a-42b1-9ad8-08939b85f145.png)
+
+# EJERCICIO 57
+
+![image](https://user-images.githubusercontent.com/93899422/155218395-d5763655-0ddf-4f87-b2a5-b0c5b5e30a6e.png)
+
+# EJERCICIO 59
+
+![image](https://user-images.githubusercontent.com/93899422/155216382-c5acde34-376b-4696-bd7f-6d8529c92319.png)
+
+# EJERCICIO 61
+
+![image](https://user-images.githubusercontent.com/93899422/155218247-caceaba0-55e3-4a40-9642-4dff54fae891.png)
+
+# EJERCICIO 63
+
+![image](https://user-images.githubusercontent.com/93899422/155216474-07feb8d8-d271-4ff1-a0fc-f5a17b17cf5f.png)
+
+# EJERCICIO 67
+
+![image](https://user-images.githubusercontent.com/93899422/155216526-582bc24e-11ed-4f2e-b092-55e3daa9cc30.png)
 
 # Capitulo 16
+
+# EJERCICIO 1
+
+![image](https://user-images.githubusercontent.com/93899422/155217917-a2ceb8ac-359a-4027-b174-72ece9eaffe3.png)
+
+# EJERCICIO 3
+
+![image](https://user-images.githubusercontent.com/93899422/155217167-18aecd25-cf25-4961-8663-56d616bdf3e0.png)
+
+# EJERCICIO 5
+
+![image](https://user-images.githubusercontent.com/93899422/155217952-d2f918a7-f17c-4ee0-ae13-d689c25b6828.png)
+
+# EJERCICIO 7
+
+![image](https://user-images.githubusercontent.com/93899422/155217235-6dcbc0c2-c6c7-47ce-8f78-d7ed12055211.png)
+
+# EJERCICIO 9
+
+![image](https://user-images.githubusercontent.com/93899422/155217996-b43a308a-93e7-4b63-809a-1901b37fb7e3.png)
+
+# EJERCICIO 11
+
+![image](https://user-images.githubusercontent.com/93899422/155217298-6f972ac6-90a2-4e63-bad0-9b268a770fd2.png)
+![image](https://user-images.githubusercontent.com/93899422/155217349-5e3ec99c-d4b2-4417-be37-4e3558323c6b.png)
+
+# EJERCICIO 13
+
+![image](https://user-images.githubusercontent.com/93899422/155218025-708379aa-2ee8-4917-a5dc-12c554f7185c.png)
+
+# EJERCICIO 15
+
+![image](https://user-images.githubusercontent.com/93899422/155217502-b28e78e8-1078-4cd0-8f6a-0d914c290aac.png)
+![image](https://user-images.githubusercontent.com/93899422/155217570-1e0f84d6-f2df-4959-ae4d-621bf524b83d.png)
+
+# EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93899422/155218099-b0aa8a46-e50f-4da8-b79a-8a2379156e46.png)
+
+# EJERCICIO 19
+
+![image](https://user-images.githubusercontent.com/93899422/155217724-beb0efde-3900-42bb-b281-f1517117aaa7.png)
+
+# EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93899422/155218133-de4af57a-873e-41af-b6f5-2f1acdbc8b4f.png)
+
+# EJERCICIO 23
+
+![image](https://user-images.githubusercontent.com/93899422/155217791-8959f8f5-c046-4b3e-911e-267b8ec8cab8.png)
+![image](https://user-images.githubusercontent.com/93899422/155217814-3d1570a7-2a7c-4455-98fb-720dd8ba0dd5.png)
 
 # EJERCICIO 25
 
@@ -314,6 +433,8 @@
 
 
 # VIDEO
+
+
 
 # CONCLUSIONES
 
