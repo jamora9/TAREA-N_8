@@ -317,5 +317,10 @@
 
 # CONCLUSIONES
 
+- El uso del sistema de los números complejos es una forma de expresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades
+fasoriales, lo cual es una ventaja a la hora de utilizarlos para el analisis de los circuitos eléctricos.
+- Conociendo todas los aspectos de los circuitos RC pueden usarse para filtrar una señal alterna, al bloquear ciertas frecuencias y dejar pasar otras.
+- Los elementos de circuitos como impedancias y al tenerlos en el dominio de fasores es mucho más practico que analizarlos en función del tiempo.
+
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
